@@ -13,6 +13,10 @@
 * [How it works?](point-system-and-airdrop/how-it-works.md)
 * [How to Participate](point-system-and-airdrop/how-to-participate.md)
 
+## ETH Strategies
+
+* [Amplified and ETH ETF](eth-strategies/amplified-and-eth-etf.md)
+
 ## Protocol Level
 
 * [Amplified Solution](protocol-level/amplified-solution.md)
@@ -35,7 +39,3 @@
 * [🖥️  Website](https://amplified.fi/)
 * [🐦  Twitter](https://x.com/Amplifiedfi)
 * [🤖 Github](https://github.com/Amplifiedfi)
-
-## ETH Strategies
-
-* [Amplified and ETH ETF](eth-strategies/amplified-and-eth-etf.md)
