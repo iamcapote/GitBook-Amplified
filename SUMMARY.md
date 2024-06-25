@@ -35,3 +35,7 @@
 * [🖥️  Website](https://amplified.fi/)
 * [🐦  Twitter](https://x.com/Amplifiedfi)
 * [🤖 Github](https://github.com/Amplifiedfi)
+
+## ETH Strategies
+
+* [Amplified and ETH ETF](eth-strategies/amplified-and-eth-etf.md)
