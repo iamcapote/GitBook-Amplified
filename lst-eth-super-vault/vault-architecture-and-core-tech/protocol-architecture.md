@@ -93,3 +93,108 @@ Key Business Logic and Relationships:
 * The AdaptorRegistry manages the registration and retrieval of adaptors.
 * Governance interactions are handled through the GovernanceFacet, allowing for protocol upgrades and strategy adjustments.
 * Users interact with the AmplifiedDiamond contract for core vault operations (deposit, withdraw).
+
+## Amplified Protocol: Component Breakdown and Explanation
+
+<figure><img src="../../.gitbook/assets/ampl-biz-structure.png" alt=""><figcaption><p>Amplified protocol components</p></figcaption></figure>
+
+### User Interaction
+
+Users interact with the Amplified protocol by depositing ETH and Liquid Staking Tokens (LSTs) into the Amplified Super Vault. In return, they receive aETH tokens representing their share of the total protocol stake.
+
+### Amplified Super Vault
+
+The core of the protocol, consisting of several key components:
+
+1. **ERC-4626 Vault**: A standard-compliant vault that manages user deposits and interacts with various protocol components.
+2. **Governance Contract**: Oversees the entire Amplified ecosystem, similar to Aave Governance v3, including:
+   * AMPL & stAMPL Token: Core governance tokens
+   * AMPL Treasury: Holds protocol-owned tokens
+   * stAMPL Staking: Allows users to stake AMPL for voting power
+   * AMPL Vesting Protocol: Manages token distribution
+   * Yield Treasury: Collects and manages protocol fees
+   * Vault Insurance: Provides coverage using 10% of treasury funds
+   * TimeLock Contract: Manages proposal execution
+   * Strategy Executor: Implements rebalancing actions
+   * Rewards and Incentive Contract: Manages staker and LP incentives
+3. **Swap Router & AMM Adaptors**: Facilitates token exchanges and includes:
+   * Price Oracle Connectors: Ensure accurate pricing
+   * Routing Pool Aggregator: Optimizes token swaps across various DEXes
+4. **Quadrat v3 Protocol**: Manages structured positions in v3 AMM protocols:
+   * ALM Protocol: Holds and manages positions
+   * AI ALM Rebalancers: Executes position rebalancing
+5. **DeFi Adaptors**: Interfaces with various DeFi protocols for yield optimization
+6. **LST Adaptors and Restaking Protocol**: Manages positions in liquid staking protocols
+7. **Bridge Connector**: Enables cross-chain position management
+8. **Point & Airdrop Claimer**: Captures additional value from protocol interactions
+9. **Fee Manager**: Calculates and distributes protocol fees
+
+### Offchain Components
+
+1. **AI Rebalancer Offchain Module**: Calculates optimal strategies based on collected data
+2. **Offchain Data Collector**: Aggregates data from various protocol components
+
+This structure allows Amplified to efficiently manage user funds across multiple DeFi protocols and chains, optimizing yields while maintaining a robust governance and security framework.
+
+## Amplified protocol user flow, states and processes
+
+
+
+<figure><img src="../../.gitbook/assets/ampl-fund-flow.png" alt=""><figcaption><p>The flow of assets and information through the system, as well as the different states and processes within the protocol.</p></figcaption></figure>
+
+* **User Flow**: The diagram starts and ends with user interactions (deposit and withdraw), showing the full cycle of asset movement.
+* **Amplified Super Vault**: Represented as a main state containing the ERC-4626 Vault and Swap Router, showing internal asset exchanges.
+* **Governance System**: Displayed as a cycle of token holding, proposal, and execution, emphasizing the democratic nature of protocol management.
+* **Protocol Stack**: Shows the interaction between Quadrat v3, DeFi Adaptors, and LST Adaptors in a continuous optimization loop.
+* **Cross-Chain Operations**: Represented as a self-contained state with bidirectional asset transfers.
+* **Reward System**: Illustrates the flow from claiming to distribution of rewards.
+* **Fee Management**: Shows the process of fee calculation and distribution.
+* **AI & Data System**: Represents the continuous loop of data collection, analysis, and strategy optimization.
+* **Inter-component Relationships**: Arrows between major components show the flow of assets, information, and control across the entire protocol.
+
+## Amplified Protocol: Economic Value Flow
+
+<figure><img src="../../.gitbook/assets/ampl-economic-schema.png" alt=""><figcaption></figcaption></figure>
+
+The economic schema of the Amplified protocol, focusing on AMPL token value creation and yield farming strategies:
+
+1. **Amplified Super Vault (ASV)**:
+   * Remains the core entry point for user funds.
+2. **Protocol Stack (PS)**:
+   * Quadrat v3 Protocol: Focuses on advanced trading and positioning strategies.
+   * DeFi Adaptors: Now broken down into specific strategies:
+     * Liquidity Mining: Provides liquidity to DEXes for fee generation.
+     * Yield Farming: Actively seeks the best yield opportunities across DeFi.
+     * Lending/Borrowing: Utilizes lending protocols for additional yield.
+   * LST Adaptors: Manages liquid staking tokens for staking rewards.
+3. **Reward System (RS)**:
+   * Point & Airdrop Claimer: Collects various rewards from protocol interactions.
+   * Rewards Contract: Distributes rewards through an enhanced Incentive Structure:
+     * LP Rewards: For liquidity providers.
+     * Governance Rewards: For active participation in governance.
+     * Performance Rewards: Based on protocol's overall performance.
+4. **Fee Management (FM)**:
+   * Now includes funding for Market Stabilization operations.
+5. **Governance System (GS)**:
+   * Expanded Token Economy:
+     * AMPL Token: Core governance token.
+     * stAMPL Token: Staked AMPL with enhanced benefits.
+   * Vesting Protocol: Ensures controlled token distribution.
+6. **Market Stabilization (MS)**:
+   * Buyback & Burn: Supports AMPL token value.
+   * Emission Policy: Controls token supply based on protocol performance.
+
+**Value Creation for AMPL**:
+
+1. Staking Mechanism: Users can stake AMPL for stAMPL, providing governance rights and boosted rewards.
+2. Buyback & Burn: Utilizes protocol revenues to purchase and burn AMPL, potentially increasing its scarcity and value.
+3. Governance Participation: Active governance participants receive additional rewards, incentivizing engagement.
+4. Performance-Linked Value: As the protocol performs better, AMPL holders benefit through increased rewards and potential token value appreciation.
+
+**Yield Farming Strategies**:
+
+1. Diversified Approach: The DeFi Adaptors now explicitly cover various strategies (Liquidity Mining, Yield Farming, Lending/Borrowing) to maximize yields.
+2. Cross-Protocol Optimization: The Quadrat v3 Protocol can optimize positions across these strategies.
+3. LST Integration: LST Adaptors allow for additional yield from staking rewards while maintaining liquidity.
+4. Dynamic Allocation: The Governance System can adjust strategy allocations based on market conditions and performance.
+5. Compounding Effects: Rewards from all strategies are collected and can be reinvested, creating a compounding effect.
