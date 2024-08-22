@@ -1,3 +1,9 @@
+---
+icon: brain-circuit
+cover: ../.gitbook/assets/Frame 16.png
+coverY: 0
+---
+
 # Glossary
 
 **AMPL Token:** The governance token of Amplified Protocol, used for voting on protocol decisions and earning staking rewards.

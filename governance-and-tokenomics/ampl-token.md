@@ -3,6 +3,9 @@ description: >-
   At the heart of Amplified's governance model lies the AMPL token, a governance
   token that empowers holders to directly influence key decisions affecting the
   protocol.
+icon: people-roof
+cover: ../.gitbook/assets/Frame 19.png
+coverY: 0
 ---
 
 # AMPL Token

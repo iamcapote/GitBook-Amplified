@@ -1,3 +1,9 @@
+---
+description: Super ETH / LST Vault & Institutional Grade Asset Management Protocol
+cover: .gitbook/assets/Frame 10.png
+coverY: -67
+---
+
 # 👋 Welcome to Amplified
 
 > _Amplified is a novel Liquid Staking Derivative (LSD) re-staking and redistribution platform built upon Eigenlayer. Designed to counteract the centralization tendencies of dominant LSD protocols, Amplified re-stakes LSDs across a secured network of Eigenlayer validators, bolstering decentralization and unlocking amplified yields for liquidity providers. The protocol features multi-protocol LSD diversification, optimized LSD liquidity management, yield boosting, risk mitigation strategies, and the aETH LP token as its core value accrual mechanism._

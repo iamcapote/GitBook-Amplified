@@ -1,3 +1,9 @@
+---
+icon: sitemap
+cover: ../.gitbook/assets/Frame 17.png
+coverY: -21
+---
+
 # How to Participate
 
 **1. Spread the Word:** Share your unique referral link with your network and on social media. Highlight the benefits of Amplified, such as simplified LST yields, automated strategies, and a strong community.

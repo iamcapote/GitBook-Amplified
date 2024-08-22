@@ -2,6 +2,8 @@
 description: >-
   Empowering ETH ETF Funds with Amplified: A New Horizon in DeFi Yield
   Generation
+cover: ../.gitbook/assets/Frame 15.png
+coverY: 0
 ---
 
 # Amplified and ETH ETF

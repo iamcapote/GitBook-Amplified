@@ -1,5 +1,8 @@
 ---
 description: 'Amplified''s Diamond Standard Implementation: A Deep Dive into EIP-2535'
+icon: grid
+cover: ../../.gitbook/assets/Frame 6.png
+coverY: 0
 ---
 
 # EIP-2535 | Diamond

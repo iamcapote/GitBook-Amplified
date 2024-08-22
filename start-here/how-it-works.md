@@ -3,6 +3,8 @@ description: >-
   At the heart of the Amplified Protocol lies the Super Vault, a sophisticated
   smart contract that acts as a decentralized hub for managing your LST
   investments.
+cover: ../.gitbook/assets/Frame 4.png
+coverY: 0
 ---
 
 # 💻 How it works?

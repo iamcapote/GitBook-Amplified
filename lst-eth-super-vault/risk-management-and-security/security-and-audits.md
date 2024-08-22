@@ -1,8 +1,11 @@
 ---
 description: Ensuring the Integrity and Security of Amplified Protocol
+icon: shield-check
+cover: ../../.gitbook/assets/Frame 13.png
+coverY: 0
 ---
 
-# Audits & Security
+# Security & Audits
 
 At Amplified, we prioritize the security of user funds and the integrity of our platform. We believe that transparency and rigorous security practices are paramount to building trust within the DeFi ecosystem.
 

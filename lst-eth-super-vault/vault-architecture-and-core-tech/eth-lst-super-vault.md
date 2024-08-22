@@ -1,8 +1,11 @@
 ---
 description: 'Super Vault Contract: The Heart of Asset Management'
+icon: grid
+cover: ../../.gitbook/assets/Frame 6.png
+coverY: 0
 ---
 
-# LST Super Vault
+# ETH LST Super Vault
 
 **Functionality:**
 

@@ -1,5 +1,8 @@
 ---
 description: 'Amplified''s Super Vault: Leveraging the Power of ERC-4626'
+icon: grid
+cover: ../../.gitbook/assets/Frame 6.png
+coverY: 0
 ---
 
 # ERC-4626 | Tokenization

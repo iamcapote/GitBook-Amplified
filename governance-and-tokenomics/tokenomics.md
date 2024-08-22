@@ -1,3 +1,9 @@
+---
+icon: people-roof
+cover: ../.gitbook/assets/Frame 19.png
+coverY: 0
+---
+
 # Tokenomics
 
 Amplified's token model carefully balances the interests of various stakeholders to promote the platform's sustainability, decentralization, and user incentives. Core aspects include:

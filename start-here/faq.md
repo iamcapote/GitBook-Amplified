@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Frame 1.png
+coverY: 0
+---
+
 # ❓ FAQ
 
 <details>

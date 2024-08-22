@@ -1,3 +1,9 @@
+---
+icon: sitemap
+cover: ../.gitbook/assets/Frame 17.png
+coverY: -19
+---
+
 # How it works?
 
 Earning points is simple and rewarding. Here's how the system works:

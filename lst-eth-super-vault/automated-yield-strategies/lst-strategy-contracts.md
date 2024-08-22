@@ -1,5 +1,8 @@
 ---
 description: 'LST Strategy Contracts: Powering Yield Optimization'
+icon: chart-mixed-up-circle-dollar
+cover: ../../.gitbook/assets/Frame 3.png
+coverY: 0
 ---
 
 # LST Strategy Contracts

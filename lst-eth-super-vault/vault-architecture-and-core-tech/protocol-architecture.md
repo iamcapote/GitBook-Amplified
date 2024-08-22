@@ -1,4 +1,10 @@
-# Architecture
+---
+icon: grid
+cover: ../../.gitbook/assets/Frame 6.png
+coverY: 0
+---
+
+# Protocol Architecture
 
 Amplified's core architecture leverages Eigenlayer to achieve its unique LSD re-staking and redistribution capabilities. Here's a breakdown of the key components and how they interact:
 
@@ -45,3 +51,45 @@ Amplified's core architecture leverages Eigenlayer to achieve its unique LSD re-
 * Diversification and active management strategies promote security and yield maximization.
 * Amplified aims to be a user-friendly platform with continuous innovation in LSD re-staking and yield generation.
 {% endhint %}
+
+## Protocol Architecture (including EIP-2535 and ERC-4626 standards)
+
+<figure><img src="../../.gitbook/assets/amplified-eip-erc-model-dark.png" alt=""><figcaption></figcaption></figure>
+
+This diagram illustrates the comprehensive architecture of the Amplified protocol, incorporating the EIP-2535 Diamond standard, ERC-4626 Tokenized Vault standard, and the adaptor system. Here's a breakdown of the key components and their relationships:
+
+1. AmplifiedDiamond:
+   * Central contract implementing both EIP-2535 and ERC-4626 standards.
+   * Provides core vault functionalities (deposit, withdraw, asset conversion).
+2. Facets:
+   * DepositWithdrawalFacet: Handles user deposits and withdrawals.
+   * StrategyManagementFacet: Manages strategy execution and rebalancing.
+   * AdaptorManagementFacet: Handles adaptor configuration and management.
+   * SwapFacet: Provides token swap functionality.
+   * GovernanceFacet: Manages protocol upgrades and governance actions.
+3. Adaptors:
+   * BaseAdaptor: Abstract base class for all adaptor contracts.
+   * Specific Adaptors (AaveAdaptor, PendleAdaptor): Implement protocol-specific logic.
+   * SwapAdaptor: Handles token swaps through external DEXes.
+4. Convertors:
+   * AaveConvertor and PendleConvertor: Handle protocol-specific data encoding.
+5. Storage and Registry:
+   * DiamondStorage: Manages the protocol's state, including adaptor addresses and strategy data.
+   * AdaptorRegistry: Keeps track of registered adaptors.
+6. External Interactions:
+   * ExternalDEX: Represents external decentralized exchanges for token swaps.
+7. User Interactions:
+   * User: Represents end-users interacting with the protocol.
+   * Governance: Represents governance actions for protocol management.
+
+Key Business Logic and Relationships:
+
+* The AmplifiedDiamond contract serves as the central point of interaction, implementing both EIP-2535 and ERC-4626 standards.
+* Facets provide modular functionality, allowing for easy upgrades and maintenance.
+* The adaptor system (BaseAdaptor and its derivatives) enables integration with various DeFi protocols.
+* Convertors handle protocol-specific data encoding, abstracting complexity from the main contracts.
+* The SwapFacet and SwapAdaptor enable token swaps, crucial for strategy execution and rebalancing.
+* DiamondStorage provides a unified storage solution for the entire protocol.
+* The AdaptorRegistry manages the registration and retrieval of adaptors.
+* Governance interactions are handled through the GovernanceFacet, allowing for protocol upgrades and strategy adjustments.
+* Users interact with the AmplifiedDiamond contract for core vault operations (deposit, withdraw).

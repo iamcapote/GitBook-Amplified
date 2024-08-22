@@ -1,3 +1,9 @@
+---
+icon: grid
+cover: ../../.gitbook/assets/Frame 6.png
+coverY: 0
+---
+
 # Amplified Solution
 
 Amplified introduces an innovative model within the Liquid Staking Derivative (LSD) landscape – re-staking and redistribution powered by Eigenlayer. Let's break down how this technology integration and the core features of Amplified offer significant benefits for users.

@@ -1,3 +1,9 @@
+---
+icon: people-roof
+cover: ../.gitbook/assets/Frame 19.png
+coverY: 0
+---
+
 # Governance Process
 
 **Proposal Submission:** Any AMPL holder can submit a governance proposal outlining their proposed changes to the protocol, along with a detailed rationale and supporting data.
