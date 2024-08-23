@@ -30,7 +30,6 @@
   * [Price Oracles](lst-eth-super-vault/ecosystem-and-protocol-integration/price-oracles.md)
   * [Full LST Ecosystem](lst-eth-super-vault/ecosystem-and-protocol-integration/full-lst-ecosystem.md)
   * [DeFi Protocols Integration](lst-eth-super-vault/ecosystem-and-protocol-integration/defi-protocols-integration.md)
-* [Amplified and ETH ETF](lst-eth-super-vault/amplified-and-eth-etf.md)
 * [Risk Management & Security](lst-eth-super-vault/risk-management-and-security/README.md)
   * [Security & Audits](lst-eth-super-vault/risk-management-and-security/security-and-audits.md)
   * [Validator Diversification & Insurance](lst-eth-super-vault/risk-management-and-security/validator-diversification-and-insurance.md)
@@ -40,6 +39,10 @@
 * [AMPL Token](governance-and-tokenomics/ampl-token.md)
 * [Governance Process](governance-and-tokenomics/governance-process.md)
 * [Tokenomics](governance-and-tokenomics/tokenomics.md)
+
+## 🏛️ Institutional
+
+* [Amplified and ETH ETF](institutional/amplified-and-eth-etf.md)
 
 ## 🗃️ Resources
 
