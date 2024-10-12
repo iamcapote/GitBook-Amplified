@@ -6,7 +6,7 @@ coverY: 0
 
 # Glossary
 
-**AMPL Token:** The governance token of Amplified Protocol, used for voting on protocol decisions and earning staking rewards.
+**LLT Token:** The governance token of Amplified Protocol, used for voting on protocol decisions and earning staking rewards.
 
 **APY (Annual Percentage Yield):** The estimated annual rate of return on an investment, taking into account the compounding effects of reinvested rewards.
 
