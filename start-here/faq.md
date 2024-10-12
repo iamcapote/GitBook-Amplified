@@ -100,9 +100,9 @@ Acquire AMPL tokens, stake them to gain voting power, and participate in on-chai
 
 <details>
 
-<summary><strong>What is the AMPL token used for?</strong></summary>
+<summary><strong>What is the LLT token used for?</strong></summary>
 
-AMPL is the governance token of Amplified Protocol, granting holders voting rights on protocol upgrades, strategy parameters, and other key decisions.
+LLT is the governance token of Amplified Protocol, granting holders voting rights on protocol upgrades, strategy parameters, and other key decisions.
 
 </details>
 

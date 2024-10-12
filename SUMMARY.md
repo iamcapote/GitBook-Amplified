@@ -3,14 +3,14 @@
 ## Start here
 
 * [👋 Welcome to Amplified](README.md)
-* [💻 How it works?](start-here/how-it-works.md)
+* [💻 How does it work?](start-here/how-does-it-work.md)
 * [❓ FAQ](start-here/faq.md)
 * [⚠️ Disclaimers](start-here/disclaimers.md)
 
 ## 👑 Point System & Airdrop
 
 * [What is the Point System?](point-system-and-airdrop/what-is-the-point-system.md)
-* [How it works?](point-system-and-airdrop/how-it-works.md)
+* [How does it work?](point-system-and-airdrop/how-does-it-work.md)
 * [How to Participate](point-system-and-airdrop/how-to-participate.md)
 
 ## 🪙 LST ETH Super Vault
@@ -24,7 +24,7 @@
 * [Automated Yield Strategies](lst-eth-super-vault/automated-yield-strategies/README.md)
   * [Strategies](lst-eth-super-vault/automated-yield-strategies/strategies.md)
   * [LST Strategy Contracts](lst-eth-super-vault/automated-yield-strategies/lst-strategy-contracts.md)
-  * [AI Rebalancer](lst-eth-super-vault/automated-yield-strategies/ai-rebalancer.md)
+  * [AI Liquidity Engine](lst-eth-super-vault/automated-yield-strategies/ai-liquidity-engine.md)
   * [Automated Liquidity Manager (ALM)](lst-eth-super-vault/automated-yield-strategies/automated-liquidity-manager-alm.md)
 * [Ecosystem & Protocol Integration](lst-eth-super-vault/ecosystem-and-protocol-integration/README.md)
   * [Price Oracles](lst-eth-super-vault/ecosystem-and-protocol-integration/price-oracles.md)
@@ -32,13 +32,14 @@
   * [DeFi Protocols Integration](lst-eth-super-vault/ecosystem-and-protocol-integration/defi-protocols-integration.md)
 * [Risk Management & Security](lst-eth-super-vault/risk-management-and-security/README.md)
   * [Security & Audits](lst-eth-super-vault/risk-management-and-security/security-and-audits.md)
-  * [Validator Diversification & Insurance](lst-eth-super-vault/risk-management-and-security/validator-diversification-and-insurance.md)
 
 ## 🏛️ Governance & Tokenomics
 
-* [AMPL Token](governance-and-tokenomics/ampl-token.md)
-* [Governance Process](governance-and-tokenomics/governance-process.md)
-* [Tokenomics](governance-and-tokenomics/tokenomics.md)
+* [LLT Token](governance-and-tokenomics/llt-token.md)
+* [Governance Model and Processes](governance-and-tokenomics/governance-model-and-processes.md)
+* [amplETH LST](governance-and-tokenomics/ampleth-lst.md)
+* [Governance Security Model](governance-and-tokenomics/governance-security-model.md)
+* [Managing Protocol and Strategy Executors](governance-and-tokenomics/managing-protocol-and-strategy-executors.md)
 
 ## 🏛️ Institutional
 
@@ -50,6 +51,21 @@
 
 ## 🎙️ SOCIALS
 
+* [🖥️ Discord](https://discord.gg/sbtJqAdnA9)
 * [🖥️  Website](https://amplified.fi/)
 * [🐦  Twitter](https://x.com/Amplifiedfi)
 * [🤖 Github](https://github.com/Amplifiedfi)
+
+## Security and Risk Assessment Report
+
+* [Executive Summary](security-and-risk-assessment-report/executive-summary.md)
+* [Protocol Overview](security-and-risk-assessment-report/protocol-overview.md)
+* [Security Overview](security-and-risk-assessment-report/security-overview.md)
+* [Risk Categorization and Evaluation](security-and-risk-assessment-report/risk-categorization-and-evaluation.md)
+* [Liquid Staking Token (LST) Risk Assessment](security-and-risk-assessment-report/liquid-staking-token-lst-risk-assessment.md)
+* [External Protocol Risk Assessment](security-and-risk-assessment-report/external-protocol-risk-assessment.md)
+* [Mitigation Strategies](security-and-risk-assessment-report/mitigation-strategies.md)
+* [Stress Testing and Scenario Analysis](security-and-risk-assessment-report/stress-testing-and-scenario-analysis.md)
+* [Governance and Compliance](security-and-risk-assessment-report/governance-and-compliance.md)
+* [Conclusion and Recommendations](security-and-risk-assessment-report/conclusion-and-recommendations.md)
+* [Major References and Researches](security-and-risk-assessment-report/major-references-and-researches.md)
