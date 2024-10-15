@@ -3,15 +3,15 @@
 ## Start here
 
 * [👋 Welcome to Amplified](README.md)
-* [💻 How does it work?](start-here/how-does-it-work.md)
+* [💻 Autonomous Vault Infrastructure](start-here/autonomous-vault-infrastructure.md)
 * [❓ FAQ](start-here/faq.md)
 * [⚠️ Disclaimers](start-here/disclaimers.md)
 
 ## 👑 Point System & Airdrop
 
-* [What is the Point System?](point-system-and-airdrop/what-is-the-point-system.md)
-* [How does it work?](point-system-and-airdrop/how-does-it-work.md)
-* [How to Participate](point-system-and-airdrop/how-to-participate.md)
+* [Amplified Protocol Point System](point-system-and-airdrop/amplified-protocol-point-system.md)
+* [How to Participate?](point-system-and-airdrop/how-to-participate.md)
+* [Referrals: Build and Lead Your Squad](point-system-and-airdrop/referrals-build-and-lead-your-squad.md)
 
 ## 🪙 LST ETH Super Vault
 
