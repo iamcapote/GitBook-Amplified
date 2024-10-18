@@ -156,7 +156,7 @@ This structure allows Amplified to efficiently manage user funds across multiple
 
 <figure><img src="../../.gitbook/assets/ampl-economic-schema.png" alt=""><figcaption></figcaption></figure>
 
-The economic schema of the Amplified protocol, focusing on AMPL token value creation and yield farming strategies:
+The economic schema of the Amplified protocol, focusing on LLT token value creation and yield farming strategies:
 
 1. **Amplified Super Vault (ASV)**:
    * Remains the core entry point for user funds.
@@ -184,9 +184,9 @@ The economic schema of the Amplified protocol, focusing on AMPL token value crea
    * Buyback & Burn: Supports LLT token value.
    * Emission Policy: Controls token supply based on protocol performance.
 
-**Value Creation for AMPL**:
+**Value Creation for LLT**:
 
-1. Staking Mechanism: Users can stake LLT for weLoveLLT, providing governance rights and boosted rewards.
+1. Staking Mechanism: Users can stake LLT for veLLT, providing governance rights and boosted rewards.
 2. Buyback & Burn: Utilizes protocol revenues to purchase and burn LLT, potentially increasing its scarcity and value.
 3. Governance Participation: Active governance participants receive additional rewards, incentivizing engagement.
 4. Performance-Linked Value: As the protocol performs better, LLT holders benefit through increased rewards and potential token value appreciation.
