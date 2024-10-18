@@ -22,6 +22,6 @@ LLT holders possess significant authority in shaping the future of the Amplified
 
 ## Staking and Voting Power
 
-* **Staking LLT**: Users can stake their LLT tokens in the staking contract to receive **weLoveLLT** tokens, which represent their voting power.
-* **Voting Power Enhancement**: Voting power starts at a 1:1 ratio (weLoveLLT). Users can increase their voting power up to a 1:2 ratio by locking up their LLT tokens for up to 5 years, incentivizing long-term commitment.
-* **Delegation**: Users can delegate their **weLoveLLT** voting power to other wallets, allowing for flexible participation and representation.
+* **Staking LLT**: Users can stake their LLT tokens in the staking contract to receive **veLLT** tokens, which represent their voting power.
+* **Voting Power Enhancement**: Voting power starts at a 1:1 ratio (veLLT). Users can increase their voting power up to a 1:2 ratio by locking up their LLT tokens for up to 5 years, incentivizing long-term commitment.
+* **Delegation**: Users can delegate their **veLLT** voting power to other wallets, allowing for flexible participation and representation.

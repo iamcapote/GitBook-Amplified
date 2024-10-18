@@ -37,7 +37,7 @@
 
 * [LLT Token](governance-and-tokenomics/llt-token.md)
 * [Governance Model and Processes](governance-and-tokenomics/governance-model-and-processes.md)
-* [amplETH LST](governance-and-tokenomics/ampleth-lst.md)
+* [ampETH LST](governance-and-tokenomics/ampeth-lst.md)
 * [Governance Security Model](governance-and-tokenomics/governance-security-model.md)
 * [Managing Protocol and Strategy Executors](governance-and-tokenomics/managing-protocol-and-strategy-executors.md)
 

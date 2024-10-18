@@ -82,7 +82,7 @@ Each proposal type follows a structured process to ensure thorough consideration
 * **Purpose**: To gauge community sentiment during the Temp Check and ARC stages without incurring gas fees.
 * **Platform**: Snapshot or similar off-chain voting platforms.
 * **Voting Period**: Typically 3 days.
-* **Eligibility**: LLT holders with staked tokens (weLoveLLT) can participate.
+* **Eligibility**: LLT holders with staked tokens (veLLT) can participate.
 
 **On-Chain Voting**
 
@@ -90,11 +90,11 @@ Each proposal type follows a structured process to ensure thorough consideration
 * **Platform**: On-chain governance contracts.
 * **Voting Delay**: A 1-day delay after proposal submission before voting starts.
 * **Voting Period**: Typically 3 days.
-* **Eligibility**: LLT holders with staked tokens (weLoveLLT) participate directly or through delegation.
+* **Eligibility**: LLT holders with staked tokens (veLLT) participate directly or through delegation.
 
 **Voting Power**:
 
-* Determined by the amount of staked LLT (weLoveLLT) and enhanced by lockup periods.
+* Determined by the amount of staked LLT (veLLT) and enhanced by lockup periods.
 * Delegated voting power is counted towards the delegatee.
 
 ### Quorum Requirements and Thresholds
