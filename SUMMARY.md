@@ -3,7 +3,7 @@
 ## Start here
 
 * [👋 Welcome to Amplified](README.md)
-* [💻 Autonomous Vault Infrastructure](start-here/autonomous-vault-infrastructure.md)
+* [💻 LSD Liquidity & Yield Layer](start-here/lsd-liquidity-and-yield-layer.md)
 * [❓ FAQ](start-here/faq.md)
 * [⚠️ Disclaimers](start-here/disclaimers.md)
 
