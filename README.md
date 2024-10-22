@@ -6,7 +6,7 @@ coverY: -131.96510468594215
 
 # 👋 Welcome to Amplified
 
-> _Amplified is a decentralized platform that optimizes yield and liquidity in the Liquid Staking Derivatives (LSD) and Liquid Restaking Tokens (LRT) ecosystem. It integrates with LSD providers like Lido and Rocket Pool, dynamically allocating assets to the best pools while managing liquidity via DeFi lending and AMMs. Amplified also supports leveraged trading and derivative strategies, all automated by its protocol. With customizable asset allocation and governance-driven strategies, Amplified maximizes capital efficiency and returns, offering secure, decentralized, high-yield opportunities._
+> _Amplified is a decentralized protocol that optimizes yield and liquidity in the Liquid Staking Derivatives (LSD) and Liquid Restaking Tokens (LRT) ecosystem for ETH amd BTC. It integrates with LSD providers like Lido and Rocket Pool, dynamically allocating assets to the best pools while managing liquidity via DeFi lending and AMMs. With customizable asset allocation and governance-driven strategies, Amplified maximizes capital efficiency and returns, offering secure, decentralized, high-yield opportunities._
 
 ### **The Challenge of Navigating the Liquid Staking Derivatives (LSD) Landscape**
 
