@@ -46,7 +46,7 @@ The Super Vault is a smart contract that manages user deposits, allocates funds 
 
 <summary><strong>How are LST strategies chosen and implemented?</strong></summary>
 
-Strategies are proposed and voted on by AMPL token holders through the governance process, ensuring community oversight and transparency.
+Strategies are proposed and voted on by veLLT (staked LLT) token holders through the governance process, ensuring community oversight and transparency.
 
 </details>
 
@@ -86,7 +86,7 @@ You have full control over your funds. While there are no general withdrawal del
 
 <summary><strong>What is the role of the Amplified DAO?</strong></summary>
 
-The Amplified DAO, governed by AMPL token holders, makes crucial decisions regarding protocol upgrades, new feature implementations, fee structures, and treasury management.
+The Amplified DAO, governed by veLLT (staked LLT) token holders, makes crucial decisions regarding protocol upgrades, new feature implementations, fee structures, and treasury management.
 
 </details>
 
@@ -94,7 +94,7 @@ The Amplified DAO, governed by AMPL token holders, makes crucial decisions regar
 
 <summary><strong>How can I participate in governance?</strong></summary>
 
-Acquire AMPL tokens, stake them to gain voting power, and participate in on-chain voting for active governance proposals.
+Acquire LLT tokens, stake them to gain voting power, and participate in on-chain voting for active governance proposals.
 
 </details>
 
