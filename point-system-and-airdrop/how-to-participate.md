@@ -1,12 +1,13 @@
 ---
 icon: sitemap
+description: >-
+  Getting started with the Amplified Point System is easy. Follow these steps to
+  maximize your rewards.
 cover: ../.gitbook/assets/Frame 17.png
 coverY: -21
 ---
 
-# How to Participate
-
-Getting started with the Amplified Point System is easy. Follow these steps to maximize your rewards:
+# How to Participate?
 
 ## **Preparation**
 

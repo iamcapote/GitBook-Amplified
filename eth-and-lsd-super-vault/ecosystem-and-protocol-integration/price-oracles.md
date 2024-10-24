@@ -7,11 +7,11 @@ coverY: 0
 
 # Price Oracles
 
-## Introduction
+### **Price Oracle Integration for Amplified Protocol**
 
-In the decentralized finance (DeFi) ecosystem, accurate and reliable price data is paramount for the secure and efficient operation of protocols, especially those involved in asset management and rebalancing like Amplified Protocol. Price oracles serve as the critical link between off-chain data and on-chain smart contracts, enabling protocols to make informed decisions based on real-world asset prices.
+Accurate price data is crucial for secure, efficient DeFi operations, especially in asset management and rebalancing. Amplified Protocol integrates a diverse set of price oracles, combining centralized sources like Chainlink with decentralized options such as Uniswap’s TWAP and Curve.&#x20;
 
-Amplified Protocol integrates a comprehensive array of price oracles, including both centralized sources like **Chainlink** and decentralized sources such as Time-Weighted Average Price (TWAP) oracles from **Uniswap** and **Curve**. This multi-oracle approach enhances the robustness and security of the protocol, protecting it from front-running, slippage, and price manipulation risks during portfolio rebalancing in the Super Vault.
+This multi-oracle strategy ensures robust price feeds, protecting the protocol from front-running, slippage, and manipulation risks during portfolio rebalancing in the Super Vault, enhancing both security and efficiency.
 
 ***
 

@@ -9,11 +9,13 @@ coverY: 0
 
 # AI Liquidity Engine
 
-## Introduction
+### **AI Liquidity Engine**
 
-The DeFi landscape offers significant yield opportunities, but managing liquidity across multiple protocols is complex and risky. Amplified's AI-driven Liquidity Engine optimizes real-time asset allocation across DeFi platforms, maximizing yields while minimizing risk. Its AI system uses models like ARIMA, LSTM, and reinforcement learning to predict APYs, while employing techniques like Markowitz’s Modern Portfolio Theory (MPT) and Mean-Variance Optimization (MVO). Risk is managed through models such as Value at Risk (VaR) and Conditional Value at Risk (CVaR), ensuring efficient, optimized returns for users.
+Managing liquidity across multiple DeFi platforms is both complex and risky, despite the potential yield opportunities. Amplified's AI-driven Liquidity Engine simplifies this process by optimizing real-time asset allocation across various DeFi protocols.&#x20;
 
-**How the AI Rebalancer and ALM System Work:**
+Using advanced models like ARIMA, LSTM, and reinforcement learning, the engine predicts APYs while applying strategies such as Markowitz’s Modern Portfolio Theory (MPT) and Mean-Variance Optimization (MVO) to enhance returns. Risk is effectively controlled through models like Value at Risk (VaR) and Conditional Value at Risk (CVaR), providing users with efficient, risk-adjusted returns.
+
+### **How the AI Rebalancer and ALM System Work:**
 
 1. **Data Inputs**: Our AI system continuously aggregates real-time data from various DeFi protocols like Uniswap V3, [Ether.fi](http://ether.fi), Aave, and Yearn.finance. This includes metrics such as APYs, liquidity levels, slippage, gas fees, and market volatility.
 2. **Feature Engineering**: The AI processes this data to extract key features that indicate the current and predicted performance of each liquidity pool or staking position. These features include historical yield patterns, volatility measures, liquidity shifts, and correlation metrics between different assets.

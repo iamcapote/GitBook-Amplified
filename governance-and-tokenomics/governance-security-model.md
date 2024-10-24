@@ -1,10 +1,11 @@
 ---
 icon: people-roof
+description: >-
+  Ensuring the security of the governance process is paramount to protect the
+  protocol from malicious activities and unintended consequences.
 ---
 
 # Governance Security Model
-
-Ensuring the security of the governance process is paramount to protect the protocol from malicious activities and unintended consequences.
 
 ## Execution Timelocks
 

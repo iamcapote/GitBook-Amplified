@@ -1,10 +1,11 @@
 ---
 icon: people-roof
+description: >-
+  Governance oversees the management of external entities responsible for
+  executing the protocol's strategies.
 ---
 
 # Managing Protocol and Strategy Executors
-
-Governance oversees the management of external entities responsible for executing the protocol's strategies.
 
 ## External Strategy Managers
 

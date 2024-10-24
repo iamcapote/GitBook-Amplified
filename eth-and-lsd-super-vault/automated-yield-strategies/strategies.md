@@ -6,4 +6,4 @@ coverY: 0
 
 # Strategies
 
-NDA until launch
+NDA until launch.

@@ -1,12 +1,13 @@
 ---
 icon: sitemap
+description: >-
+  Earning points with Amplified is simple and rewarding. Here's how you can
+  accumulate points.
 cover: ../.gitbook/assets/Frame 17.png
 coverY: -19
 ---
 
-# How does it work?
-
-Earning points with Amplified is simple and rewarding. Here's how you can accumulate points:
+# Referrals: Build and Lead Your Squad
 
 ## 1. Referrals: Build and Lead Your Squad
 

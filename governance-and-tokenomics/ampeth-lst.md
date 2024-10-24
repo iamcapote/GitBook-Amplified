@@ -1,12 +1,16 @@
 ---
 icon: people-roof
+description: >-
+  Amplified's token model carefully balances the interests of various
+  stakeholders to promote the platform's sustainability, decentralization, and
+  user incentives.
 cover: ../.gitbook/assets/Frame 19.png
 coverY: 0
 ---
 
 # ampETH LST
 
-Amplified's token model carefully balances the interests of various stakeholders to promote the platform's sustainability, decentralization, and user incentives. Core aspects include:
+Core token aspects include:
 
 **1. ampETH LST**&#x20;
 

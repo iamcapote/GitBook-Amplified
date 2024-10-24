@@ -2,8 +2,9 @@
 
 ## Start here
 
-* [👋 Welcome to Amplified](README.md)
-* [💻 LSD Liquidity & Yield Layer](start-here/lsd-liquidity-and-yield-layer.md)
+* [👋 Welcome to Amplified Protocol](README.md)
+* [🤖 The State of LST/LRT Capital Markets](start-here/the-state-of-lst-lrt-capital-markets.md)
+* [💻 The Amplified Protocol](start-here/the-amplified-protocol.md)
 * [❓ FAQ](start-here/faq.md)
 * [⚠️ Disclaimers](start-here/disclaimers.md)
 
@@ -13,25 +14,25 @@
 * [How to Participate?](point-system-and-airdrop/how-to-participate.md)
 * [Referrals: Build and Lead Your Squad](point-system-and-airdrop/referrals-build-and-lead-your-squad.md)
 
-## 🪙 LST ETH Super Vault
+## 🪙 ETH & LSD Super Vault
 
-* [Vault Architecture & Core Tech](lst-eth-super-vault/vault-architecture-and-core-tech/README.md)
-  * [ETH LST Super Vault](lst-eth-super-vault/vault-architecture-and-core-tech/eth-lst-super-vault.md)
-  * [Amplified Solution](lst-eth-super-vault/vault-architecture-and-core-tech/amplified-solution.md)
-  * [Protocol Architecture](lst-eth-super-vault/vault-architecture-and-core-tech/protocol-architecture.md)
-  * [ERC-4626 | Tokenization](lst-eth-super-vault/vault-architecture-and-core-tech/erc-4626-or-tokenization.md)
-  * [EIP-2535 | Diamond](lst-eth-super-vault/vault-architecture-and-core-tech/eip-2535-or-diamond.md)
-* [Automated Yield Strategies](lst-eth-super-vault/automated-yield-strategies/README.md)
-  * [Strategies](lst-eth-super-vault/automated-yield-strategies/strategies.md)
-  * [LST Strategy Contracts](lst-eth-super-vault/automated-yield-strategies/lst-strategy-contracts.md)
-  * [AI Liquidity Engine](lst-eth-super-vault/automated-yield-strategies/ai-liquidity-engine.md)
-  * [Automated Liquidity Manager (ALM)](lst-eth-super-vault/automated-yield-strategies/automated-liquidity-manager-alm.md)
-* [Ecosystem & Protocol Integration](lst-eth-super-vault/ecosystem-and-protocol-integration/README.md)
-  * [Price Oracles](lst-eth-super-vault/ecosystem-and-protocol-integration/price-oracles.md)
-  * [Full LST Ecosystem](lst-eth-super-vault/ecosystem-and-protocol-integration/full-lst-ecosystem.md)
-  * [DeFi Protocols Integration](lst-eth-super-vault/ecosystem-and-protocol-integration/defi-protocols-integration.md)
-* [Risk Management & Security](lst-eth-super-vault/risk-management-and-security/README.md)
-  * [Security & Audits](lst-eth-super-vault/risk-management-and-security/security-and-audits.md)
+* [Vault Architecture & Core Tech](eth-and-lsd-super-vault/vault-architecture-and-core-tech/README.md)
+  * [ETH & LSD Super Vault](eth-and-lsd-super-vault/vault-architecture-and-core-tech/eth-and-lsd-super-vault.md)
+  * [Amplified Solution](eth-and-lsd-super-vault/vault-architecture-and-core-tech/amplified-solution.md)
+  * [Protocol Architecture](eth-and-lsd-super-vault/vault-architecture-and-core-tech/protocol-architecture.md)
+  * [ERC-4626 | Tokenization](eth-and-lsd-super-vault/vault-architecture-and-core-tech/erc-4626-or-tokenization.md)
+  * [EIP-2535 | Diamond](eth-and-lsd-super-vault/vault-architecture-and-core-tech/eip-2535-or-diamond.md)
+* [Automated Yield Strategies](eth-and-lsd-super-vault/automated-yield-strategies/README.md)
+  * [Strategies](eth-and-lsd-super-vault/automated-yield-strategies/strategies.md)
+  * [LST Strategy Contracts](eth-and-lsd-super-vault/automated-yield-strategies/lst-strategy-contracts.md)
+  * [AI Liquidity Engine](eth-and-lsd-super-vault/automated-yield-strategies/ai-liquidity-engine.md)
+  * [Automated Liquidity Manager (ALM)](eth-and-lsd-super-vault/automated-yield-strategies/automated-liquidity-manager-alm.md)
+* [Ecosystem & Protocol Integration](eth-and-lsd-super-vault/ecosystem-and-protocol-integration/README.md)
+  * [Price Oracles](eth-and-lsd-super-vault/ecosystem-and-protocol-integration/price-oracles.md)
+  * [Full LST Ecosystem](eth-and-lsd-super-vault/ecosystem-and-protocol-integration/full-lst-ecosystem.md)
+  * [DeFi Protocols Integration](eth-and-lsd-super-vault/ecosystem-and-protocol-integration/defi-protocols-integration.md)
+* [Risk Management & Security](eth-and-lsd-super-vault/risk-management-and-security/README.md)
+  * [Security & Audits](eth-and-lsd-super-vault/risk-management-and-security/security-and-audits.md)
 
 ## 🏛️ Governance & Tokenomics
 
@@ -43,7 +44,7 @@
 
 ## 🏛️ Institutional
 
-* [Amplified and ETH ETF](institutional/amplified-and-eth-etf.md)
+* [Institutional-Grade DeFi Solutions](institutional/institutional-grade-defi-solutions.md)
 
 ## 🗃️ Resources
 

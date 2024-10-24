@@ -1,14 +1,19 @@
 ---
 icon: chart-mixed-up-circle-dollar
+description: >-
+  Amplified ALM v3's cutting-edge system is unmatched in capital optimization
+  within DEXes.
 cover: ../../.gitbook/assets/Frame 3.png
 coverY: 0
 ---
 
 # Automated Liquidity Manager (ALM)
 
-### Introduction
+### **Active Liquidity Management (ALM) Overview**
 
-Amplified Protocol is an advanced liquidity management solution with an Active Liquidity Management (ALM) module, designed to optimize concentrated liquidity on Uniswap v3 and other AMM v3 platforms. Inspired by protocols like Arrakis, Amplified improves capital efficiency through decentralized, algorithm-driven market-making, helping liquidity providers (LPs) maximize earnings while reducing risks. Focused on Liquid Staking Tokens (LST) and Liquid Reward Tokens (LRT), it enhances liquidity efficiency by managing highly correlated assets. This document covers the problem statement, mechanics, and key features of Amplified’s ALM system and its impact on liquidity management.
+Amplified Protocol offers an advanced liquidity management system through its Active Liquidity Management (ALM) module, specifically designed to optimize concentrated liquidity on Uniswap v3 and other AMM v3 platforms. By leveraging algorithm-driven, decentralized market-making, Amplified enhances capital efficiency for liquidity providers (LPs), allowing them to maximize earnings while reducing exposure to risk.&#x20;
+
+With a focus on Liquid Staking Tokens (LST) and Liquid Reward Tokens (LRT), the ALM system is tailored to manage highly correlated assets, improving liquidity utilization and optimizing returns. This overview details the problem, mechanics, and core features of Amplified’s ALM, showcasing its transformative role in DeFi liquidity management.
 
 ### Problem Statement
 
@@ -123,3 +128,5 @@ Amplified Protocol employs advanced risk mitigation strategies to address these 
 * **Multi-Tier Positioning**: Managing liquidity across multiple fee tiers allows Amplified to capture trading volume from various market segments. This diversification mitigates risk by ensuring that LPs earn fees from different fee structures, reducing reliance on any single pool or tier.
 
 By incorporating these risk mitigation measures, Amplified Protocol ensures that LPs can maximize their earnings while minimizing exposure to typical risks inherent in concentrated liquidity management. This professional approach to risk management positions Amplified as a robust solution for decentralized liquidity provision.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

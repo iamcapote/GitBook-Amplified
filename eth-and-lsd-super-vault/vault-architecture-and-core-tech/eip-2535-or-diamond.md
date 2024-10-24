@@ -1,13 +1,13 @@
 ---
-description: 'Amplified''s Diamond Standard Implementation: A Deep Dive into EIP-2535'
 icon: grid
+description: 'Amplified''s Diamond Standard Implementation: A Deep Dive into EIP-2535'
 cover: ../../.gitbook/assets/Frame 6.png
 coverY: 0
 ---
 
 # EIP-2535 | Diamond
 
-Amplified prioritizes efficiency, scalability, and upgradability in its smart contract architecture. To achieve these goals, we've adopted the Diamond Standard (EIP-2535), a powerful design pattern for building modular and future-proof smart contracts on Ethereum. This article delves into the technical details of the Diamond Standard, its implementation in Amplified's Super Vault and Smart Contract Factories, and the numerous benefits it brings to our platform.
+Amplified focuses on efficiency, scalability, and upgradability in its smart contracts by implementing the Diamond Standard (EIP-2535). This modular design pattern allows for flexible and future-proof smart contracts on Ethereum. By utilizing the Diamond Standard in Amplified's Super Vault and Smart Contract Factories, the platform can efficiently upgrade and scale its contracts while maintaining a streamlined, secure architecture. This design enhances the flexibility and long-term reliability of Amplified's infrastructure.
 
 ### The Limitations of Traditional Smart Contracts
 
