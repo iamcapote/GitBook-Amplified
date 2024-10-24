@@ -23,7 +23,6 @@
   * [ERC-4626 | Tokenization](eth-and-lsd-super-vault/vault-architecture-and-core-tech/erc-4626-or-tokenization.md)
   * [EIP-2535 | Diamond](eth-and-lsd-super-vault/vault-architecture-and-core-tech/eip-2535-or-diamond.md)
 * [Automated Yield Strategies](eth-and-lsd-super-vault/automated-yield-strategies/README.md)
-  * [Strategies](eth-and-lsd-super-vault/automated-yield-strategies/strategies.md)
   * [LST Strategy Contracts](eth-and-lsd-super-vault/automated-yield-strategies/lst-strategy-contracts.md)
   * [AI Liquidity Engine](eth-and-lsd-super-vault/automated-yield-strategies/ai-liquidity-engine.md)
   * [Automated Liquidity Manager (ALM)](eth-and-lsd-super-vault/automated-yield-strategies/automated-liquidity-manager-alm.md)
