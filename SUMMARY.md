@@ -10,7 +10,7 @@
 
 ## 👑 Point System & Airdrop
 
-* [Amplified Protocol Point System](point-system-and-airdrop/amplified-protocol-point-system.md)
+* [Point & Referral System](point-system-and-airdrop/point-and-referral-system.md)
 * [How to Participate?](point-system-and-airdrop/how-to-participate.md)
 * [Referrals: Build and Lead Your Squad](point-system-and-airdrop/referrals-build-and-lead-your-squad.md)
 
