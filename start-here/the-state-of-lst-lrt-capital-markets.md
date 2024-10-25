@@ -3,6 +3,8 @@ description: >-
   Amplified not only simplifies the user experience but also unlocks billions in
   liquidity, enhances network security, positioning the protocol as a key driver
   in the evolution of DeFi 2.0.
+cover: ../.gitbook/assets/image.avif
+coverY: 0
 ---
 
 # 🤖 The State of LST/LRT Capital Markets
