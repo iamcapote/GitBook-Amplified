@@ -9,27 +9,21 @@ coverY: 0
 
 # 🤖 The State of LST/LRT Capital Markets
 
-### State of the LST/LRT (LSD) Capital Markets
-
-The Liquid Staking Tokens (LST) and Liquid Restaking Tokens (LRT) markets are undergoing rapid development, but several foundational issues limit their long-term sustainability and capital efficiency.&#x20;
-
-With the advent of liquid staking technology, capital allocators can now secure the network while maintaining liquidity, enabling them to generate further enhanced yield opportunities across DeFi markets.&#x20;
-
-At its core, DeFi staking markets function much like a lending market, where users effectively lend their native ETH (or other PoS/PoW tokens) to various protocols in exchange for yield. These protocols, in turn, deploy various yield-generating strategies, often relying on staking or reinvestment.&#x20;
-
-However, many of these strategies fail to generate real ETH-on-ETH yield and instead depend on inflated APYs subsidized by native tokens, leading to an unsustainable model.
+### Key Issues with Current LST/LRT Markets
 
 ***
 
-### Key Issues with Current LST/LRT Markets
+### **Need for Abstraction and Liquidity Layers**
 
-### **Lack of Sustainable Yield**
+Managing DeFi strategies, protocols, and staking options is complex, often limiting broader adoption, especially for retail and institutional investors. Navigating yield optimization, risk management, and capital deployment across multiple protocols requires significant expertise, preventing efficient capital flow through the system.
+
+### **Unsustainable Yield Generation**
 
 DeFi protocols in their current state fail to generate sustainable and secure ETH-on-ETH yield from the underlying ETH itself. Instead, they rely on inflated APYs subsidized by inflationary native token incentives, which dilute value over time. This approach temporarily boosts yields but undermines long-term capital efficiency, exposing investors to greater risk without delivering real returns through DeFi strategies.
 
 This leaves investors vulnerable to token devaluation and market corrections, compromising the sustainability of these strategies in the long run.
 
-### **Inefficiency in Capital Deployment**
+### Inefficient Capital Markets
 
 Subsidized APYs do not solve the broader challenge of capital inefficiency in DeFi. Yield generated in this manner fails to optimize the full potential of the capital deployed, leading to underutilized assets across the system. In this environment, idle assets miss out on productive opportunities, while market participants rely on artificially inflated yields.&#x20;
 
@@ -44,6 +38,18 @@ Staking markets are vital for securing Proof of Stake (PoS) networks and enhanci
 Validators stake ETH or other PoS tokens to participate in the consensus mechanism, ensuring the integrity and security of the blockchain. Optimizing yields, capital efficiency, and liquidity in staking markets is not just about generating higher returns for stakers; it also attracts more capital to the network, which in turn strengthens the system's security by broadening the validator set and increasing decentralization.
 
 For PoS chains like Ethereum, the strength of the network’s consensus security is directly tied to the amount of capital staked. As staking becomes more attractive through enhanced liquidity and higher yields, capital inflows increase. A larger validator pool not only fortifies network security but also reinforces the long-term stability of the blockchain, fostering a more robust and decentralized ecosystem.
+
+***
+
+### State of the LST/LRT (LSD) Capital Markets
+
+The Liquid Staking Tokens (LST) and Liquid Restaking Tokens (LRT) markets are undergoing rapid development, but several foundational issues limit their long-term sustainability and capital efficiency.&#x20;
+
+With the advent of liquid staking technology, capital allocators can now secure the network while maintaining liquidity, enabling them to generate further enhanced yield opportunities across DeFi markets.&#x20;
+
+At its core, DeFi staking markets function much like a lending market, where users effectively lend their native ETH (or other PoS/PoW tokens) to various protocols in exchange for yield. These protocols, in turn, deploy various yield-generating strategies, often relying on staking or reinvestment.&#x20;
+
+However, many of these strategies fail to generate real ETH-on-ETH yield and instead depend on inflated APYs subsidized by native tokens, leading to an unsustainable model.
 
 ***
 
@@ -62,11 +68,5 @@ The evolution from native staking to liquid staking and now to liquid restaking 
 As DeFi matures, the market is transitioning from subsidized APYs to risk-adjusted yields. This marks the emergence of a crypto-native benchmark yield, much like the term rate structure in traditional finance.&#x20;
 
 ETH and other Layer 1 or Layer 2 staking and re-staking is increasingly viewed as this benchmark, providing a foundational yield upon which future financial products will be built. This shift signifies the next phase of DeFi’s development and underscores the importance of capital efficiency and autonomous execution in creating a more scalable and robust market.
-
-***
-
-### **The Need for Abstraction and Liquidity Layers in LSD Capital Markets**
-
-Managing DeFi strategies, protocols, and staking options is complex, often limiting broader adoption, especially for retail and institutional investors. Navigating yield optimization, risk management, and capital deployment across multiple protocols requires significant expertise, preventing efficient capital flow through the system.
 
 ***
