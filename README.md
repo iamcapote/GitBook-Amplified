@@ -28,4 +28,4 @@ Amplified’s Super Vault infrastructure enables DeFi protocols to optimize capi
 
 ***
 
-> _Amplified simplifies access to complex DeFi strategies by converting intricate financial mechanisms into a single token, offering a diversified, real-time rebalanced portfolio and providing a plug-and-play solution fr investors._&#x20;
+> _Amplified simplifies access to complex DeFi strategies by tokenizing complex defi strategies into a single token, offering a diversified, real-time rebalanced portfolio and providing a plug-and-play solution fr investors._&#x20;
