@@ -3,7 +3,7 @@ icon: sitemap
 description: >-
   Earning points with Amplified is simple and rewarding. Here's how you can
   accumulate points.
-cover: ../.gitbook/assets/Frame 17.png
+cover: ../../.gitbook/assets/Frame 17.png
 coverY: -19
 ---
 

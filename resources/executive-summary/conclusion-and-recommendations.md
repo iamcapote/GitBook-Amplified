@@ -1,6 +1,6 @@
 ---
 icon: clipboard-list
-cover: ../.gitbook/assets/Frame 17.png
+cover: ../../.gitbook/assets/Frame 17.png
 coverY: -16.371345029239766
 ---
 

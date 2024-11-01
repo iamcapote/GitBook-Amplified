@@ -1,6 +1,6 @@
 ---
 icon: people-roof
-cover: ../.gitbook/assets/Frame 19.png
+cover: ../../.gitbook/assets/Frame 19.png
 coverY: 0
 ---
 

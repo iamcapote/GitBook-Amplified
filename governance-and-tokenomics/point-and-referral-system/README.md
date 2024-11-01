@@ -1,6 +1,6 @@
 ---
 icon: sitemap
-cover: ../.gitbook/assets/Frame 17.png
+cover: ../../.gitbook/assets/Frame 17.png
 coverY: -25.603143418467585
 ---
 

@@ -3,7 +3,7 @@ icon: sitemap
 description: >-
   Getting started with the Amplified Point System is easy. Follow these steps to
   maximize your rewards.
-cover: ../.gitbook/assets/Frame 17.png
+cover: ../../.gitbook/assets/Frame 17.png
 coverY: -21
 ---
 
@@ -35,7 +35,7 @@ coverY: -21
 3. **Apply Referral Code:**
    * Enter the referral code you found to join the network and start earning points.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### **Engage and Earn**
 
@@ -55,7 +55,7 @@ coverY: -21
    * Participate in community events, quests, and campaigns to earn bonus points.
    * Provide feedback and suggestions to help us improve the platform.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Enjoy the Benefits**
 

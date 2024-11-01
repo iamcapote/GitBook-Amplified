@@ -1,12 +1,12 @@
 ---
-icon: '1'
-cover: ../.gitbook/assets/Frame 17.png
+icon: pen-to-square
+cover: ../../.gitbook/assets/Frame 17.png
 coverY: -29.637426900584796
 ---
 
-# Executive Summary
+# Assesment Report
 
-## Overview of Amplified Protocol
+## Executive Summary of Amplified Protocol
 
 Amplified Protocol is an innovative solution in the LSDfi ecosystem, specifically addressing the complexities and risks associated with Liquid Staking Derivatives and Liquid Re-Staking Tokens. As the DeFi landscape evolves, investors seek opportunities that offer amplified yields without compromising on security or decentralization. Amplified meets this demand by operating as an LSD re-staking and redistribution platform, seamlessly integrating with the Eigenlayer infrastructure.
 

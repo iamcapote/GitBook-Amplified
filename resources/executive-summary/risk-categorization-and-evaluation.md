@@ -1,6 +1,6 @@
 ---
-icon: '4'
-cover: ../.gitbook/assets/Frame 17.png
+icon: '3'
+cover: ../../.gitbook/assets/Frame 17.png
 coverY: -28.895787139689578
 ---
 
@@ -161,7 +161,7 @@ Each LST presents a unique set of smart contract risks that require careful eval
 * [Rocket Pool Audit Reports](https://rocketpool.net/protocol/security).
 * Buterin, V. (2015). "[On Public and Private Blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains)." _Ethereum Blog_.
 * [OpenZeppelin Defender](https://www.openzeppelin.com/defender).
-* [FATF Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html). (2021).&#x20;
+* [FATF Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html). (2021).
 
 ***
 

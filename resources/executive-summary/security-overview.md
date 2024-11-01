@@ -1,6 +1,6 @@
 ---
-icon: '3'
-cover: ../.gitbook/assets/Frame 17.png
+icon: '2'
+cover: ../../.gitbook/assets/Frame 17.png
 coverY: -22.474501108647452
 ---
 

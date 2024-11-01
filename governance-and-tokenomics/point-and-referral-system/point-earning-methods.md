@@ -1,10 +1,10 @@
 ---
+icon: sitemap
 description: >-
   By actively participating, referring others, and engaging with the community,
   you not only enhance your own earnings but also help shape the future of
   decentralized finance.
-icon: sitemap
-cover: ../.gitbook/assets/Frame 17.png
+cover: ../../.gitbook/assets/Frame 17.png
 coverY: -21
 ---
 
@@ -30,7 +30,7 @@ coverY: -21
   * From Bob: 0.1
   * **Total:** 2.9 points per hour
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### ETH Point Booster Detailed
 
