@@ -6,14 +6,6 @@ coverY: -16.371345029239766
 
 # Conclusion and Recommendations
 
-## Introduction
-
-The Amplified Protocol represents a significant advancement in the decentralized finance (DeFi) space, addressing the complexities and risks associated with Liquid Staking Tokens (LSTs) and Liquid Reward Tokens (LRTs). Through its innovative Super Vault mechanism, AI-driven rebalancing strategies, and robust governance framework, Amplified aims to deliver amplified yields while mitigating risks for end-users and liquidity providers (LPs).
-
-This report has conducted a comprehensive security and risk assessment of Amplified Protocol, evaluating potential vulnerabilities and proposing strategies to enhance its resilience. This concluding section summarizes the key findings, offers actionable recommendations, and provides a future outlook on the protocol's sustainability in the evolving DeFi landscape.
-
-***
-
 ## Summary of Key Findings
 
 ### 1. **Smart Contract Security**
@@ -198,7 +190,7 @@ Based on the identified risks and assessments, the following actionable steps ar
 
 ***
 
-## Final Thoughts
+## Executive Summary
 
 Amplified Protocol emerges as a comprehensive solution that effectively mitigates the risks associated with LST/LRT assets for end-users and LPs. By integrating advanced risk management strategies, robust governance, and innovative technology, Amplified offers a secure and high-yield platform in the DeFi space.
 

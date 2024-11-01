@@ -7,9 +7,9 @@ cover: ../.gitbook/assets/Frame 17.png
 coverY: -19
 ---
 
-# Referrals: Build and Lead Your Squad
+# Build and Lead Your Squad
 
-## 1. Referrals: Build and Lead Your Squad
+### Referrals: Build and Lead Your Squad
 
 **Introduce Friends to Amplified**
 
@@ -21,7 +21,7 @@ coverY: -19
 * **Level 1 Referral:** You refer Alice, who deposits 5 ETH. You earn points based on her deposit.
 * **Level 2 Referral:** Alice refers Bob, who deposits 3 ETH. You earn additional points from Bob's deposit.
 
-## 2. Squad Growth: Amplify Your Influence
+### Squad Growth: Amplify Your Influence
 
 **Grow a Thriving Community**
 
@@ -33,7 +33,7 @@ coverY: -19
 * Establish yourself as a key influencer within the Amplified ecosystem.
 * Unlock higher earning tiers as your squad grows.
 
-## 3. Total Deposits: Show Your Commitment
+### Total Deposits: Show Your Commitment
 
 **Deposit ETH to Earn More Points**
 
@@ -55,7 +55,7 @@ coverY: -19
 * If you deposit 2 ETH, you earn 2 points per hour.
 * If your referral deposits 15 ETH, you earn points based on their higher deposit tier.
 
-## 4. Community Activities: Engage and Earn
+### Community Activities: Engage and Earn
 
 **Participate in Special Events**
 
