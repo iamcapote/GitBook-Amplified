@@ -1,6 +1,20 @@
 ---
 cover: ../.gitbook/assets/Frame 1.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ❓ FAQ
@@ -52,7 +66,7 @@ Strategies are proposed and voted on by veLLT (staked LLT) token holders through
 
 <details>
 
-<summary> <strong>Is there a minimum amount of ETH I need to deposit?</strong></summary>
+<summary><strong>Is there a minimum amount of ETH I need to deposit?</strong></summary>
 
 While there isn't a strict minimum ETH deposit, gas fees on the Ethereum network can make smaller deposits less cost-effective. We recommend considering gas fees when determining your initial deposit amount.
 

@@ -4,6 +4,20 @@ description: >-
   markets into a single token.
 cover: .gitbook/assets/Frame 10.png
 coverY: -131.96510468594215
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👋 Welcome to Amplified Protocol

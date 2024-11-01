@@ -1,11 +1,25 @@
 ---
+icon: grid
 description: >-
   Amplified not only simplifies the user experience but also unlocks billions in
   liquidity, enhances network security, positioning the protocol as a key driver
   in the evolution of DeFi 2.0.
-icon: grid
 cover: ../.gitbook/assets/image.avif
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # The State of LST/LRT Capital Markets
